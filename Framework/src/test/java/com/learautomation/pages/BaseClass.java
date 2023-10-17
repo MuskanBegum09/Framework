@@ -26,7 +26,7 @@ public class BaseClass {
 	public ConfigDataProvider config;
 	public ExtentReports  report;
 	public ExtentTest logger;
-	//comment-------------------------------------
+	//comment-----------------------------------------
 	
 	@BeforeSuite
 	public void setUpSuite()
